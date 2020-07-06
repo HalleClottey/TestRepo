@@ -4,6 +4,9 @@ Testing for push and pull
 This is an awesome project! It has three parts:
 
 1. Part A
+- 1
+- 2
+- 3
 2. Part B
 3. Part C
 
