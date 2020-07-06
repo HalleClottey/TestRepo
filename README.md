@@ -14,3 +14,9 @@ Teehee
 ## Part B
 
 Oop
+
+## Part C
+
+Wooooo!
+
+Leave a blank line in between for a separate paragraph
